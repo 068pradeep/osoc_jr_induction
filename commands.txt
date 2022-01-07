@@ -6,5 +6,4 @@ Git commit :Takes the staged snapshot and commits it to the project history. Com
 Git commit --amend : Passing the --amend flag to git commit lets you amend the most recent commit. This is very useful when you forget to stage a file or omit important information from the commit message.
 Git fetch : Fetching downloads a branch from another repository, along with all of its associated commits and files. But, it doesn't try to integrate anything into your local repository. This gives you a chance to inspect changes before merging them with your project.
 Git log   : Lets you explore the previous revisions of a project. It provides several formatting options for displaying committed snapshots.
-Git merge :A powerful way to integrate changes from divergent branches. After forking the project history with git branch, git merge lets you put it back together again.
-Git pull : Pulling is the automated version of git fetch. It downloads a branch from a remote repository, then immediately merges it into the current branch. This is the Git equivalent of svn update.
+Git merge :A powerful way to integrate changes from divergent branches. After forking the project history with git branch, git merge lets you put it back together again

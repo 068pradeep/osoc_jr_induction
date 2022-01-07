@@ -1,0 +1,6 @@
+Discription on conflict : 
+ when i merge these two branch conflit is created.
+ Tihs occur due to file having same name but different content(TEXT)
+ 
+ Discription on rsolving conflict :
+ i just remove the content
